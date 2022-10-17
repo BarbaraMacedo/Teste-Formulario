@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(233, 233, 233);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.estilo1{
+    background-image:url(https://static.vecteezy.com/ti/vetor-gratis/p1/2303937-abstrato-cinza-fundo-com-linhas-onduladas-vetor.jpg);
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: bold;
+    font-family: aharoni;
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(0, 0, 0, 0.877) 2px 2px 2px;
+    margin: 0 auto;
+}
+.estilo2 table{
+    width: 40%; /*Largura*/
+    padding: 10px; /*Espaçamento de itens*/
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.estilo2 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center; /*Alinhamento do texto*/
+    color:rgb(3, 1, 1)
+}
+.estilo2 img{
+    padding-left: 25px;
+    padding-top: 10px;
+    height: 52px;
+    width: 200px;
+}
+.bttnn{
+    background-color: white;
+    color: rgb(73, 73, 73);
+    width: 370px;
+    height: 200px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-color: white;
+    cursor: pointer;
+    margin: 15px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 29px;
+    padding-left: 15px;
+    padding: 20px;
+}
+.bttnn:hover{
+    background-color: rgb(3, 88, 138);
+    transition: background-color 0.5s;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+.tabhome2{
+    background-color: rgb(204, 204, 204);
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;
+    color: rgba(0, 0, 0, 0);
+}
+.tabhome2 img{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    padding-left: 15px;
+   
+}
+footer { /*Rodapé*/
+    position: absolute;
+    bottom: 0;
+    background-color: blue;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+    padding: relative;
+    margin: 0 auto;
+}
+/*Login*/
+.body1{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p2/5489372-fundo-degrade-de-cor-roxa-bela-gr%C3%A1tis-vetor.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: left;
+}
+.corpo{
+    width: 490px;
+    height: 650px;
+    background-color: rgba(255, 255, 255, 0.582);
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.corpo1{
+    margin: 0 auto;
+    border-radius: 15px;
+    font-size: 15px;
+    color: rgb(143, 143, 143);
+}
+.corpo1:hover{
+    color: black;
+    transition: color 0.5s;
+}
+.corpo-img{
+    width: 150px;
+    height: 140px;
+}
+.form{
+    border-radius: 25px;
+    padding: 5px;
+    width: 500px;
+}
+.form1{
+    border-radius: 25px;
+    padding: 5px;
+    width: 100px;
+}
+.form2{
+    border-radius: 5px;
+    padding: 5px;
+    width: 170px;
+}
+.form3{
+    border-radius: 25px;
+}
